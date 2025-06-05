@@ -20,8 +20,8 @@ public class arrayreverse {
 		revarray(A);
 		
 	for(int i = 0; i<A.length; i++) {
-	System.out.print(A[i] + " ");
-	}
+		System.out.print(A[i] + " ");
+		}
 	}
 }
 

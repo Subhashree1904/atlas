@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="com/student/app/StudentDAO.java" kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/subhn/Downloads/mongodb-driver-core-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/subhn/Downloads/mongodb-driver-3.2.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/subhn/Downloads/bson-3.2.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/subhn/Downloads/mongodb-driver-core-3.2.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/subhn/.m2/repository/org/mongodb/mongodb-driver-sync/4.5.1/mongodb-driver-sync-4.5.1.jar" sourcepath="C:/Users/subhn/.m2/repository/org/mongodb/mongodb-driver-sync/4.5.1/mongodb-driver-sync-4.5.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.mongodb"/>
+			<attribute name="maven.artifactId" value="mongodb-driver-sync"/>
+			<attribute name="maven.version" value="4.5.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
